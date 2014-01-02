@@ -1,0 +1,6 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\LasRaícesDeEcuaciónCuadrática\LasRaícesDeEcuaciónCuadrática\bin\Debug\LasRaícesDeEcuaciónCuadrática.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\LasRaícesDeEcuaciónCuadrática\LasRaícesDeEcuaciónCuadrática\bin\Debug\LasRaícesDeEcuaciónCuadrática.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\LasRaícesDeEcuaciónCuadrática\LasRaícesDeEcuaciónCuadrática\bin\Debug\LasRaícesDeEcuaciónCuadrática.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\LasRaícesDeEcuaciónCuadrática\LasRaícesDeEcuaciónCuadrática\obj\Debug\LasRaícesDeEcuaciónCuadrática.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\LasRaícesDeEcuaciónCuadrática\LasRaícesDeEcuaciónCuadrática\obj\Debug\LasRaícesDeEcuaciónCuadrática.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\LasRaícesDeEcuaciónCuadrática\LasRaícesDeEcuaciónCuadrática\obj\Debug\LasRaícesDeEcuaciónCuadrática.pdb
